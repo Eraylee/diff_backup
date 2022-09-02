@@ -2,6 +2,8 @@
 
 ## 用于Raw照片筛选备份工具
 
+![image](https://github.com/Eraylee/diff_backup/blob/main/screenshot/WX20220902-170123@2x.png?raw=true)
+
 ## 背景
 每次拍完照片之后，需要备份 Raw 格式照片，如果把全部 Raw 格式都备份的话，太浪费硬盘空间，如果手动挑选 Raw 图片来备份，费时费力，所以想到通过程序来筛选需要备份的 Raw 文件。
 
